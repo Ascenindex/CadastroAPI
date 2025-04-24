@@ -8,5 +8,5 @@ public class CadastroApiApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CadastroApiApplication.class, args);
 	}
-²
+
 }
